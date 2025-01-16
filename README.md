@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, SQL, bash
 - 🌱 I’m currently learning [Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html)
 - 💞️ I’m looking to collaborate on beginner-friendly data science projects
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/p%C3%A9ter-rikk-b848901a2/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/peter-rikk-data/)
 
 <!---
 azapeti/azapeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

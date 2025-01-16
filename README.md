@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Peter
-- 👀 I’m interested in python, SQL, bash
+- 👋 Hi, I’m Peter Rikk
+- 👀 I’m interested in python, SQL, bash, machine learning
 - 🌱 I’m currently learning [Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html)
-- 💞️ I’m looking to collaborate on beginner-friendly data science projects
+- 💞️ I’m looking to collaborate on intermediate data science projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/peter-rikk-data/)
 
 <!---
